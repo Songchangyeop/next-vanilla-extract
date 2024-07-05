@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+import "./theme.css.ts";
 
 // SEO를 Metadata로 하나봄 NextSEO 안 써도 될듯
 export const metadata: Metadata = {
